@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/data/VWS/Integrated_values_surveys_1981-2021.sav
+/data/VWS/Integrated_values_surveys_1981-2021.zip
