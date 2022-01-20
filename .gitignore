@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/data/VWS/Integrated_values_surveys_1981-2021.sav
+/data/VWS/Integrated_values_surveys_1981-2021.zip
+/data/OWID_CO2/owid-co2-data.csv
+/data/OWID_CO2/owid-co2-codebook.csv
+/data/OWID_CO2/co2-data-master.zip
